@@ -6,11 +6,11 @@ src-git freifunk https://github.com/xiaoqingfengATGH/k5-feeds-freifunk
 # lienol's repo is splitted into two repo now
 src-git lienol https://github.com/homelede/openwrt-package.git
 src-git pw https://github.com/homelede/openwrt-passwall.git
-src-git xiaoqingfeng https://github.com/xiaoqingfengATGH/feeds-xiaoqingfeng
+# src-git xiaoqingfeng https://github.com/xiaoqingfengATGH/feeds-xiaoqingfeng
 #src-git helloworld https://github.com/fw876/helloworld
 # luci-theme-infinityfreedom
-src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
+# src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
 # homeclash
-src-git homeclash https://github.com/xiaoqingfengATGH/homeclash.git
+# src-git homeclash https://github.com/xiaoqingfengATGH/homeclash.git
 # strongswanInDocker
-src-git strongswanInDocker https://github.com/xiaoqingfengATGH/luci-app-strongswanInDocker.git
+# src-git strongswanInDocker https://github.com/xiaoqingfengATGH/luci-app-strongswanInDocker.git
